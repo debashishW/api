@@ -1,0 +1,81 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://images.unsplash.com/photo-1615419235091-59bf9cbd530b?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "review": "A classic tale of decadence and excess, showcasing the jazz age and the American dream's corruption.",
+        "totalPages": 180,
+        "rating": 4.2,
+        "category": "Classic",
+        "tags": ["American", "Novel"],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 2,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://images.unsplash.com/photo-1622609184693-58079bb6742f?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "review": "A dystopian novel that explores the dangers of totalitarianism and political repression.",
+        "totalPages": 328,
+        "rating": 4.6,
+        "category": "Dystopian",
+        "tags": ["Political", "Fiction"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 3,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://images.unsplash.com/photo-1672317535351-54ed5ebf791d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "review": "A profound novel that deals with serious issues like racial injustice and moral growth.",
+        "totalPages": 281,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": ["Classic", "Courtroom"],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://www.raptisrarebooks.com/wp-content/uploads/2015/06/3479-1.jpg",
+        "review": "An iconic novel that captures the teenage angst and alienation many feel while growing up.",
+        "totalPages": 234,
+        "rating": 3.9,
+        "category": "Young Adult",
+        "tags": ["Coming-of-Age", "Fiction"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 5,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://images.unsplash.com/photo-1573125716783-d05b57a86488?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "review": "A brilliant comedy of manners that explores the concerns of genteel women living in Georgian-Regency England.",
+        "totalPages": 432,
+        "rating": 4.5,
+        "category": "Romance",
+        "tags": ["Classic", "Literature"],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 6,
+        "bookName": "Brave New World",
+        "author": "Aldous Huxley",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ug2ls9zcdL8VSX5zW8Lx7TD6A4Hob4-cv3QUv4AFHA&s",
+        "review": "A visionary and unsettling novel that anticipates huge scientific advancements and their impact on society.",
+        "totalPages": 311,
+        "rating": 4.1,
+        "category": "Science Fiction",
+        "tags": ["Dystopian", "Philosophical"],
+        "publisher": "Chatto & Windus",
+        "yearOfPublishing": 1932
+    }
+]
+
